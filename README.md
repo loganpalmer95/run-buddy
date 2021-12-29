@@ -12,3 +12,5 @@ https://loganpalmer95.github.io/run-buddy/
 
 # Contribution:
 Made with ❤️ by Logan Palmer
+
+### &copy;2019 Run Buddy, Inc
